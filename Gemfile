@@ -1,4 +1,4 @@
-
+require 'mail'
 source "https://rubygems.org"
 gem "rspec"
 gem "sinatra"
