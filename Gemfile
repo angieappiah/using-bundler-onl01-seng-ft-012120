@@ -11,7 +11,7 @@ gem 'rack', git: 'https://github.com/rack/rack'
 end
 
 gem "hashie" 
-gem sinatra gem with the specific version 1.4.4 (FAILED - 2)
+gem "sinatra", "1.4.4"
     should list the gem octokit gem specifying version 2.0 with a gem twiddle-wakka (FAILED - 3)
     should list the awesome_print gem specifying a remote git repository (use github) (FAILED - 4)
     groups
