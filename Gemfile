@@ -13,5 +13,5 @@ end
 gem "hashie" 
 gem "sinatra", "1.4.4"
 gem "octokit", "~> 2.0" with a gem
-    should list the awesome_print gem specifying a remote git repository (use github) (FAILED - 4)
+    should list the awesome_print specifying a remote git repository (use github) (FAILED - 4)
     groups
